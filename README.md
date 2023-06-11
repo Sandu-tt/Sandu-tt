@@ -9,16 +9,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sandu-tt&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandu-tt&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sandu-tt&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/sanduni_t_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sandu-tt&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-
-
-
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
