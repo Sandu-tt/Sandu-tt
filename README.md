@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm sanduni
- <a href="https://git.io/typing-svg"><img-->
-                src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=80&duration=1000&pause=1000&color=36BCF7FF&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder"-->
-            alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E061F&background=FFE729E3&vCenter=true&width=435&separator=%3C&lines=+I'm+a+Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;+UX%2FUI+Designer" alt="Typing SVG" /></a>
 
 
 
