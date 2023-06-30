@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm sanduni
 
 
-- 🌱 I’m currently learning **ComputerScience**
+  🌱 I’m currently learning **ComputerScience** 
 
 
 <br clear="both">
@@ -18,7 +18,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###
 
-<p align="left">- 📚 I'm currently learning computer science</p>
+- 📚 
+  🌱 I’m currently learning **ComputerScience** 
 
 ###
 
