@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  <header style="text-align: left; padding-left: 10px">I'm a,</header>
             <a href="https://git.io/typing-svg"><img
-                    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=80&duration=1000&pause=1000&color=36BCF7FF&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder"
+                    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=60&duration=1000&pause=1000&color=F7F409F4&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder"
                     alt="Typing SVG"/></a>
 
 
