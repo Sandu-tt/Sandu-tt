@@ -33,11 +33,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ###
 
 # 💻 Tech Stack:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sandu-tt&label=Profile%20views&color=0e75b6&style=flat" alt="Sandu-tt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandu-tt&theme=" alt="Sandu-tt" /></a> </p>
-
-<div> <a href="https://github.com/Sandu-tt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
