@@ -72,6 +72,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandu-tt&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandu-tt&theme=2077" height="180em" />
 </div>
+ 
+# 📊 GitHub Stats:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandu-tt&theme=synthwave-84"/>
 
@@ -85,10 +87,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sandu-tt&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sandu-tt&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandu-tt&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sandu-tt&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
