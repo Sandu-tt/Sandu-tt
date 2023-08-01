@@ -56,6 +56,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sandu-tt&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandu-tt&layout=compact&theme=dark" alt=Sandu-tt />
 
@@ -90,8 +94,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sandu-tt&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 
 
