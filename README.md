@@ -4,10 +4,7 @@
 )](https://git.io/typing-svg)
 
 
-<h3 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h3>
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-</a>
+
 </p></br>
 
 
