@@ -18,15 +18,22 @@
                     alt="Typing SVG"/></a>-->
 
 
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-    <style>
-        .title {
-            font-family: 'Poppins', sans-serif;
-            font-weight: 600;
-            font-size: 40px;
-            fill: #F7F409; /* Yellow color */
-            text-shadow: 2px 2px 4px #333333; /* Dark highlight */
-        }
+# Hi there! 👋
+
+
+<svg width="800" height="200">
+  <rect width="100%" height="100%" fill="#2c2c2c"/>
+  <text x="10" y="40" fill="#FFFF00" font-size="30" font-family="Arial">Hey I'm Sanduni Thrimavitahana</text>
+  <foreignObject x="10" y="50" width="800" height="150">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <header style="text-align: left; padding-left: 60px; color: #FFFF00; font-size: 30px; font-family: Arial;">I'm a,</header>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=1000&pause=1000&color=F7F409F4&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder" alt="Typing SVG"/>
+      </a>
+    </div>
+  </foreignObject>
+</svg>
+
     </style>
     <text x="10" y="50" class="title">Hey I'm Sanduni Thrimavitahana</text>
     <text x="60" y="120" class="title">I'm a,</text>
