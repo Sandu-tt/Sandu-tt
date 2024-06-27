@@ -1,5 +1,5 @@
 <!--Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm  Sanduni*/-->
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandu+Tharaka
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandu+Tharaka
 )](https://git.io/typing-svg)
 
 
@@ -15,7 +15,7 @@
  <header style="text-align: left; padding-left: 60px">I'm a,</header>
             <a href="https://git.io/typing-svg"><img
                     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=1000&pause=1000&color=F7F409F4&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder"
-                    alt="Typing SVG"/></a>-->
+                    alt="Typing SVG"/></a>
 
 
 
