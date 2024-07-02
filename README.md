@@ -12,7 +12,7 @@
 
 <img align="right" height="100" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 
- <header style="text-align: left; padding-left: 60px">I'm a,</header>
+ <header style="text-align: left; padding-left: 60px">I'm ,</header>
             <a href="https://git.io/typing-svg"><img
                     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=1000&pause=1000&color=F7F409F4&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder"
                     alt="Typing SVG"/></a>
