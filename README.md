@@ -27,7 +27,7 @@
 ###
 
 - 📚 
-  🌱 I’m currently undergraduate **ComputerScience** 
+  🌱 I’m currently undergraduate **Computer Science** 
 
 
 ###
