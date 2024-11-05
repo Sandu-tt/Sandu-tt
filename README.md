@@ -1,6 +1,4 @@
-<!--Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm  Sanduni*/-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+SanduniTharaka
-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1001&color=D0E97BEB&width=435&lines=%E2%84%8D%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%9D%F0%9D%95%A0+%F0%9D%95%80'%F0%9D%95%9E+%F0%9D%95%8A%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%95%F0%9D%95%A6%F0%9D%95%9F%F0%9D%95%9A+%F0%9D%95%8B%F0%9D%95%99%F0%9D%95%92%F0%9D%95%A3%F0%9D%95%92%F0%9D%95%9C%F0%9D%95%92)](https://git.io/typing-svg)
 
 
 </p></br>
